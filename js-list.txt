@@ -3,3 +3,4 @@
 2. loop
 3. setTimeout
 4. setInterval
+5. comments
