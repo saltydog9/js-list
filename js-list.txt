@@ -1,0 +1,5 @@
+
+1. fib squence
+2. loop
+3. setTimeout
+4. setInterval
